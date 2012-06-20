@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Me</string>
+    <string name="name">Name:</string>
+    <string name="address">Address:</string>
+    <string name="city">City:</string>
+    <string name="state">State:</string>
+    <string name="phone">Phone:</string>
+    <string name="edit">Edit</string>
+
+</resources>
